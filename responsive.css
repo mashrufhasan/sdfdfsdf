@@ -1,0 +1,129 @@
+@media screen and (max-width: 480px){
+	/*start*/
+.menu .row#custom {
+    text-align: center;
+}
+
+.menu .row #custom {
+    text-align: center;
+    padding: 13px 0;
+}
+.banner h1{
+	font-size: 65px;
+    line-height: 75px;
+}
+.header .banner {
+    padding: 5px 0 50px;
+    text-align: center;
+}
+.banner img{
+	    margin-top: 50px;
+}
+.populer {
+    padding: 45px 0 34px;
+}
+.populer-img {
+    margin-bottom: 20px;
+}
+.content {
+    background: #999999ad;
+    padding-bottom: 30px;
+}
+.content .text h2 {
+    font-family: 'Alfa Slab One', cursive;
+    color: #;
+    font-size: 34px;
+    line-height: 50px;
+    text-transform: uppercase;
+    margin: 26px 0 14px;
+}
+.content .text p{
+	color: #000;
+	font-weight: 400;
+}
+.text-image {
+    background: black;
+    border: 1px solid #fff;
+}
+.text-image h2{
+	color :#ffbc00;
+}
+.text-image p {
+    font-size: 19px;
+    line-height: 29px;
+    color: #cf6b24;
+}
+
+.text-image .btn-success {
+    border-radius: 50px;
+}
+.slider .owl-theme .owl-nav.disabled+.owl-dots {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.slider {
+    padding: 60px 0;
+}
+.mb-md-0.p-md-4{
+	    padding: 40px 0 0px;
+}
+.p-4{
+	padding: 0 !important;
+	    margin-bottom: 40px;
+}
+.form {
+       
+    padding-bottom: 44px !important;
+    padding: 0px 14px;
+
+}
+.form-text {
+    text-align: center;
+    padding: 18px 0 70px;
+}
+
+.footer p {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 29px;
+    padding: 0 3px 0 3px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.footer .location {
+    margin-left: 0px;
+    padding-top: 7px;
+}
+.footer .location .i-first {
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+.i-second{
+    padding-right: 69px;
+}
+.footer img {
+    padding: 30px 0 35px;
+    width: 100%;
+}
+.bt{
+	    text-align: center;
+    padding-top: 20px;
+}
+.menu .navbar-light .navbar-toggler{
+    color: #000da1;
+    border-color: #000da1;
+    box-shadow: inset 0px 0px 1px 1px;
+}
+.menu .navbar-light .navbar-toggler {
+    color: #3d2514;
+    border-color: #3d2514;
+    box-shadow: inset 0px 0px 2px 2px #3d2514;
+    padding: 12px 21px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+	/*finish*/
+}
